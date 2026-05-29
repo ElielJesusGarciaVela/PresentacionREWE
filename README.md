@@ -52,6 +52,7 @@ Semana 9
 
 Semana 10
 
+# no se que poner
 
 ---
 
@@ -74,6 +75,33 @@ Usamos herramientas como:
 
 ## <br>Conocimientos adquiridos por cada módulo profesional.
 
+### AF2. Elaboración de un informe de sostenibilidad que recoja el plan de acción ASG (Ambiental, Socialy Gobernanza), los indicadores de desempeño elegidos y definidos; y una evaluación general de la situaciónde sostenibilidad de la empresa
+
+~~No realizado~~
+
+### AF3. Investigar sistemas de gestión empresarial, instalar y configurar aplicaciones específicas, gestionar roles y permisos, crear informes útiles para la toma de decisiones, y preparar datos para integrarlos con otros sistemas, documentando su uso básico
+
+Aprender a usar SAP Logon y SAP GUI. Creación de documentación para facilitar la toma de decisiones y reducir el tiempo de trabajo.
+
+### AF4. Investigar tipos de bases de datos no relacionales, diseñar estructuras, gestionar datos y realizar pruebas de rendimiento, integrándolas en proyectos empresariales y documentando su uso.
+
+    aqui pon lo que dijiste en el video porfi
+
+### AF5. Desarrollar habilidades para conectar, interactuar, integrar y evaluar bases de datos orientadas a objetos, abarcando desde la persistencia de objetos hasta el diseño de aplicaciones completas con funcionalidades avanzadas.
+
+Realizacion del proyecto Ticket Machine, el cual une bases de datos con clases orientadas a objetos, y a ABAP reports/program para tener total funcionalidad tanto como por delante (interfaz gráfica) como por detras (backend y base de datos).
+
+### AF6. Configurar y personalizar entornos de desarrollo, generando ejecutables de varios lenguajes de programación
+
+Instalación de IDEs como Eclipse y VSCode y extensiones específicas su mayor rendimiento. Generando ejecutables de ABAP.
+
+### AF7. Implementación y configuración de un entorno seguro de desarrollo multiplataforma
+
+Uso de Fiori para crear una web que permita unir al usuario con la aplicacion y su backend tanto como por ordenadores como dispositivos móviles.
+
+### AF8. Realiza un diagnóstico inicial de la empresa para conocer su madurez digital y describe los KPI's utilizados para las métricas.
+
+Realización de un proyecto de dígitalizacion, en el cual se analiza todo lo mencionado para proponer un plan de mejora a la empresa.
 
 
 ## <br>Valoración de la experiencia dual por parte del alumno.
