@@ -2,9 +2,11 @@
 
 Rewe Digital Spain es una empresa dentro de REWE Group, es la rama de IT o rama técnica de REWE Group.
 
-El trabajo realizado varia mucho, desde Java y Kotlin hasta ABAP. Y se especializa en campos como Financas, Recursos Humanos, Producción, etc...
+El trabajo realizado varia mucho, desde Java y Kotlin hasta ABAP. Y se especializa en campos como Finanzas, Recursos Humanos, Producción, etc...
 
-Nosotros hemos estado trabajando con ABAP, que es el lenguaje de SAP, la empresa más grande de toda Europa.
+Hemos estado trabajando con `ABAP`, que es el lenguaje de `SAP`, la empresa más grande de toda Europa.
+
+En todo el `README.md` y en el vídeo no dividimos tareas por cada uno porque literalmente los dos hemos hecho no mismo, al mandarlos la misma tarea y al estar uno al lado de otro hemos realizado los mismo proyectos, mismos puntos y todo lo mismo. 
 
 # VIDEO
 
@@ -49,6 +51,8 @@ Semana 8
 
 - Creacion de unit tests para la calculadora y otras tareas previas
 
+- Esquema RAP para desplegar una web con Fiori.
+
 Semana 9
 
 - Aprender como representar informacion en forma de tablas usando abap alv salv
@@ -56,7 +60,7 @@ Semana 9
 
 Semana 10
 
-# no se que poner
+- Aprender como enlazar repositorios en GitLab con paquetes de ABAP realizando practicas utiles como hacer commits y volver a commits anteriores o trabajar en difertentes ramas.
 
 ---
 
@@ -79,6 +83,10 @@ Usamos herramientas como:
 
 ## <br>Conocimientos adquiridos por cada módulo profesional.
 
+### AF1. Desarrollo de un Entorno Personal de Aprendizaje para mejorar la empleabilidad.
+
+Desarrollado en el día a día al aprender ABAP por nuestra propia cuenta, realizar reuniones e interactucar con compañeros en caso de dudas y en presentar o ofrecer nuevos proyectos para mejorar sistemas empresariales utilizados en la actualidad.
+
 ### AF2. Elaboración de un informe de sostenibilidad que recoja el plan de acción ASG (Ambiental, Socialy Gobernanza), los indicadores de desempeño elegidos y definidos; y una evaluación general de la situaciónde sostenibilidad de la empresa
 
 ~~No realizado~~
@@ -89,7 +97,7 @@ Aprender a usar SAP Logon y SAP GUI. Creación de documentación para facilitar 
 
 ### AF4. Investigar tipos de bases de datos no relacionales, diseñar estructuras, gestionar datos y realizar pruebas de rendimiento, integrándolas en proyectos empresariales y documentando su uso.
 
-    aqui pon lo que dijiste en el video porfi
+No se han visto las bases de datos no relacionales, pero diseñar estructuras, gestionar datos y realizar pruebas de rendimiento se han visto con bases de datos relacionales.
 
 ### AF5. Desarrollar habilidades para conectar, interactuar, integrar y evaluar bases de datos orientadas a objetos, abarcando desde la persistencia de objetos hasta el diseño de aplicaciones completas con funcionalidades avanzadas.
 
@@ -110,8 +118,12 @@ Realización de un proyecto de dígitalizacion, en el cual se analiza todo lo me
 
 ## <br>Valoración de la experiencia dual por parte del alumno.
 
-<b>Eliel Garcia Vela:</b> Estar en REWE ha servido cono una experiencia muy enriquecedora y productiva. He aprendido a desempeñarme por mi mismo, sin necesidad de depender de compañeros, pero aún manteniendo una relacion amistosa y colaborativa con ellos. Pienso haber logrado encontrar un balance entre independencia y trabajo en equipo.
+**`Eliel Garcia Vela`**: Estar en REWE ha servido cono una experiencia muy enriquecedora y productiva. He aprendido a desempeñarme por mi mismo, sin necesidad de depender de compañeros, pero aún manteniendo una relacion amistosa y colaborativa con ellos. Pienso haber logrado encontrar un balance entre independencia y trabajo en equipo.
 
 Ha sido una oportunidad única, y agradezco mucho a REWE y todo el equipo por haberse esforzado tanto en crear una experiencia tan disfrutable.
+
+**`Víctor Pagola del Pino`**: La estancia en REWE Digital Spain durante estos tres meses ha sido una experiencia muy enriquecedora, tanto a nivel técnico como profesional. He podido comprender de primera mano cómo funciona el día a día de una empresa tecnológica de gran escala, lo que me ha aportado una perspectiva mucho más concreta del entorno laboral real.
+El equipo nos ha apoyado en todo momento, resolviendo dudas cuando nos encontrábamos bloqueados y facilitando nuestra integración desde el primer día. Además, hemos tenido la oportunidad de participar en diversas actividades internas que nos han permitido conocer a personas de distintos departamentos y hacer networking dentro de la organización.
+Desde el punto de vista técnico, trabajar con ABAP ha supuesto un reto interesante. Aunque presenta diferencias notables respecto a lenguajes como Java, resulta especialmente adecuado para entornos empresariales gracias a su estrecha integración con los sistemas internos de SAP y la gran cantidad de funcionalidades predefinidas que ofrece. Esto facilita considerablemente tanto el desarrollo de nuevas funcionalidades en proyectos existentes como los procesos de migración.
 
 ---
