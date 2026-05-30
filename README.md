@@ -6,6 +6,10 @@ El trabajo realizado varia mucho, desde Java y Kotlin hasta ABAP. Y se especiali
 
 Nosotros hemos estado trabajando con ABAP, que es el lenguaje de SAP, la empresa más grande de toda Europa.
 
+# VIDEO
+
+[![Video](image.png)](https://drive.google.com/file/d/1O_c0RgxmiWU88ib7n2HLEXpZjF7VY15k/view?usp=sharing)
+
 ---
 ## <br>Tareas desempeñadas con temporalización por semanas:
 
